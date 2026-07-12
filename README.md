@@ -1,4 +1,7 @@
-# Simple-html-portfolio
-"simple html porfolio" is a stunning portfolio website, meticulously designed and developed using HTML, CSS, Bootstrap, and JavaScript... 
+# Personal Portfolio
 
-![screencapture-opulent-space-goldfish-gg654x9qqq4h7j-5500-app-github-dev-index1-html-2024-05-17-09_23_04](https://github.com/Hammadu696/Simple-html-portfolio/assets/132342505/2f64cada-90d5-4740-a36b-f9640ce9c05c)
+This repository contains the source code for my personal portfolio website.
+
+It showcases my work in **game development**, **digital illustration**, and **traditional frame-by-frame animation**. The website was built with HTML, CSS, and JavaScript, and serves as a central place to explore my projects, artwork, and professional experience.
+
+Feel free to visit the live portfolio or explore the source code.
